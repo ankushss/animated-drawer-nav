@@ -4,8 +4,9 @@ An animated drawer navigation for react native
 ## How to use?
   1. Download or clone this repo.
   2. Install dependencies
-  
   > npm install
+  3. Run the command
+  > react-native run-android
 
 # Demo
 
